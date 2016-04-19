@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ANDRE VI ER STOLTE AV]]></title>
         <description><![CDATA[ANDRE VI ER STOLTE AV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/selskaper-vi-er-stolte-av/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 08:43:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 12:41:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/selskaper-vi-er-stolte-av/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[øsdalkfja ]]></title>
+            <description><![CDATA[<article><h1>øsdalkfja </h1><h2>asølkdfjølaa</h2></article>]]></description>
+            <link>https://thegrid.ai/selskaper-vi-er-stolte-av/osdalkfja/index.html</link>
+            <guid isPermaLink="false">27bc830f-7f67-44fb-a350-76e7d6ce20c6</guid>
+            <pubDate>Tue, 19 Apr 2016 12:41:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ee9dc99-1d4a-4c35-b5c3-125921dc2bd1.jpg">]]></description>
-            <link>undefined0da953b6-d35f-4d57-978b-0349750e5c06/index.html</link>
+            <link>https://thegrid.ai/selskaper-vi-er-stolte-av/0da953b6-d35f-4d57-978b-0349750e5c06/index.html</link>
             <guid isPermaLink="false">0da953b6-d35f-4d57-978b-0349750e5c06</guid>
             <pubDate>Sun, 17 Apr 2016 08:43:00 GMT</pubDate>
         </item>
