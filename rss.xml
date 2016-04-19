@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ANDRE VI ER STOLTE AV]]></title>
-        <description><![CDATA[ANDRE VI ER STOLTE AV]]></description>
+        <title><![CDATA[SKJEMTEFILM]]></title>
+        <description><![CDATA[SKJEMTEFILM]]></description>
         <link>https://thegrid.ai/selskaper-vi-er-stolte-av/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 12:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 12:58:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/selskaper-vi-er-stolte-av/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ARBEIDER]]></title>
+            <description><![CDATA[<h1>ARBEIDER</h1>]]></description>
+            <link>https://thegrid.ai/selskaper-vi-er-stolte-av/arbeider/index.html</link>
+            <guid isPermaLink="false">d0041393-b0a0-4c21-af13-e34c4cb82b98</guid>
+            <pubDate>Tue, 19 Apr 2016 12:58:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[øsdalkfja ]]></title>
             <description><![CDATA[<article><h1>øsdalkfja </h1><h2>asølkdfjølaa</h2></article>]]></description>
