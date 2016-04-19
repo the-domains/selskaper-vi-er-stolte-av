@@ -1,7 +1,7 @@
-name: SELSKAPER VI ER STOLTE AV
+name: ANDRE VI ER STOLTE AV
 favicon: null
-layout_spectrum: 0.35833404934965074
-typography_spectrum: 0.6945296314079314
+layout_spectrum: 0.78714
+typography_spectrum: 0.20872
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.2769182533957064
-  lightness: 0.9956368282437325
-  saturation: 0.39301846525631845
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0.3125
   rhythmicContrast: 0.160760089289397
 purpose: []
